@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Canoe Rampage</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div id="splashScreen" class="center">
+    <h1>Canoe Rampage</h1>
+    <button id="startButton">Start Game</button>
+  </div>
+
+  <div id="gameScreen" class="hidden">
+    <div id="gameHeader">
+      <div id="gameInfo">Game elapsed: <span id="time">00:00</span></div>
+      <button id="pauseResumeButton">Pause Game</button>
+    </div>
+
+    <canvas id="gameCanvas"></canvas>
+    <div id="arrowButtonsContainer">
+      <button id="leftArrowButton" class="button">&#8592;</button>
+      <button id="rightArrowButton" class="button">&#8594;</button>
+    </div>
+
+  </div>
+
+  <div id="gameOverScreen" class="hidden">
+    <div id="endGameMessage" class="message-box">
+      <p>Uh-oh! Game Lost. You've slammed into a colossal rock!</p>
+      <button id="replayButton">Replay</button>
+      <button id="endGameFromMessageBtn">End Game</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
