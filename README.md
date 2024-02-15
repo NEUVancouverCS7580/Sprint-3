@@ -125,7 +125,7 @@ To serve as an aid for teaching language, especially for reclamation of endanger
 
 ## Deployment
 
-[Github Page Link](https://github.com/NEUVancouverCS7580/sprint-3)
+[Deployment Link](https://neuvancouvercs7580.github.io/Sprint-3/)
 
 [Wireframe](https://drive.google.com/file/d/1Nzswc2aT1KRZgVgZ5TesrwcTiMKDVJk-/view?usp=drive_link)
 
