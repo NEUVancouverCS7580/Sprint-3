@@ -1,5 +1,3 @@
-# 7580-canoe-game
-
 # Canoe Rampage (v3) – MVP Demo Documentation
 
 ## Description:
