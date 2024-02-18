@@ -4,6 +4,16 @@
 
 The Canoe Rampage MVP demo is a simplified version of an extensible two-word canoe mobile game where the player navigates a canoe downstream, earning points by avoiding collisions with rocks. The primary goal is to create a basic and engaging experience that focuses on the core gameplay mechanics. Additional feature for end build would aims to enable players to control the game using voice commands through voice recognition technology.
 
+## Relevant Project Links:
+
+[Deployment Link](https://neuvancouvercs7580.github.io/Sprint-3/)
+
+[Wireframe](https://drive.google.com/file/d/1Nzswc2aT1KRZgVgZ5TesrwcTiMKDVJk-/view?usp=drive_link)
+
+[Play video demo](https://drive.google.com/file/d/1T8bndG2ym6VpvjMHl4QVfiJkqg4b37J0/view?usp=drive_link)
+
+[UI Test video demo](https://drive.google.com/file/d/1FLYzkKxQoFuQiIgVyFncV92GAFRuf1Q7/view?usp=drive_link)
+
 ## Purpose of the Game:
 
 To serve as an aid for teaching language, especially for reclamation of endangered languages.
@@ -34,10 +44,6 @@ To serve as an aid for teaching language, especially for reclamation of endanger
 - Left and right controls
 - Rockes/obstacles which should be avoided. If player hits a rock, game ends.
 - Pause/Resume - toggle keys for pausing and resuming the game
-
-## Wireframe
-
-![Alt text](image.png)
 
 ## MVP Demo Flow:
 
@@ -121,12 +127,10 @@ To serve as an aid for teaching language, especially for reclamation of endanger
 
 - Microphone: add toggle microphone for voice inputs
 
-## Deployment
+## Layout
 
-[Deployment Link](https://neuvancouvercs7580.github.io/Sprint-3/)
+- Position Game Elapsed Timer, Pause/Resume Button, and Game Score, on the gameHeader.
+- Provide a link to the configuration file display panel.
+  - Include configuration for canvas size, show/hide details, etc.
 
-[Wireframe](https://drive.google.com/file/d/1Nzswc2aT1KRZgVgZ5TesrwcTiMKDVJk-/view?usp=drive_link)
-
-[Play video demo](https://drive.google.com/file/d/1T8bndG2ym6VpvjMHl4QVfiJkqg4b37J0/view?usp=drive_link)
-
-[UI Test video demo](https://drive.google.com/file/d/1FLYzkKxQoFuQiIgVyFncV92GAFRuf1Q7/view?usp=drive_link)
+## Bugs fixes
